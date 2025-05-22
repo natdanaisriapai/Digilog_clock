@@ -1,0 +1,22 @@
+# PyInstaller build directories
+build/
+dist/
+
+# PyInstaller spec file
+*.spec
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 
