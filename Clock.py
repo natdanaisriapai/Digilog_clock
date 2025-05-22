@@ -67,4 +67,3 @@ root.mainloop()
 ## Make to .EXE on terminal
 # pip install pyinstaller
 # pyinstaller --onefile --icon=clock_icon.ico --noconsole Clock.py
-
