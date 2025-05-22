@@ -1,0 +1,10 @@
+# This project uses only built-in Python libraries (tkinter, math, datetime)
+# No external dependencies are required 
+
+# Required for running the application:
+# - tkinter (built-in)
+# - math (built-in)
+# - datetime (built-in)
+
+# Required for building executable:
+pyinstaller==6.3.0  # For creating standalone executable 
